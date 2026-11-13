@@ -21,10 +21,9 @@ give the deploy your App's ID, private key and webhook secret, it lists
 ## Live deployment
 
 <!-- 02-docs:begin -->
-Not recorded yet. The bootstrap's last phase writes the live URLs, the
-workspace, whether the GitHub App is connected and the secrets the site uses
-into [ai/context/deployment.md](ai/context/deployment.md); how the site
-deploys and how to operate it is in
+This site is **live**. Verified URLs, identity and the secrets it uses are
+recorded in [ai/context/deployment.md](ai/context/deployment.md) (re-rendered
+by the `02-docs` phase); how it deploys and how to operate it:
 [ai/context/operations.md](ai/context/operations.md).
 <!-- 02-docs:end -->
 
